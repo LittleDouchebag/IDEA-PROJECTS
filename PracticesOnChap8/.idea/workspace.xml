@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="154ca106-7c87-47f8-a038-f1f739bcd19a" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="154ca106-7c87-47f8-a038-f1f739bcd19a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Ch8Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Q20.java" afterDir="false" />
+    </list>
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +50,40 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
+    <session id="-804087127">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1135" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1135" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -65,11 +105,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch8Q11.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="209">
               <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+=======
+            <state relative-caret-position="418">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch8Q20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
             </state>
           </provider>
         </entry>
@@ -103,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/FindNearestPoints.java" />
         <option value="$PROJECT_DIR$/src/Ch8Q9.java" />
         <option value="$PROJECT_DIR$/src/Ch8Q11.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Q20.java" />
       </list>
     </option>
   </component>
@@ -112,9 +167,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="width" value="960" />
     <option name="height" value="1040" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -133,6 +195,11 @@
               <item name="PracticesOnChap8" type="b2602c69:ProjectViewProjectNode" />
               <item name="PracticesOnChap8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PracticesOnChap8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticesOnChap8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,8 +209,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541636033194" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541647465698" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nov06.V2/src/Ch7Q35.java" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -159,7 +231,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ch8Q9">
+  <component name="RunManager" selected="Application.Ch8Q20">
+    <configuration name="Ch8Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch8Q11" />
+      <module name="PracticesOnChap8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch8Q20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch8Q20" />
+      <module name="PracticesOnChap8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ch8Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch8Q4" />
       <module name="PracticesOnChap8" />
@@ -185,9 +271,13 @@
       <item itemvalue="Application.FindNearestPoints" />
       <item itemvalue="Application.Ch8Q4" />
       <item itemvalue="Application.Ch8Q9" />
+      <item itemvalue="Application.Ch8Q11" />
+      <item itemvalue="Application.Ch8Q20" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ch8Q20" />
+        <item itemvalue="Application.Ch8Q11" />
         <item itemvalue="Application.Ch8Q9" />
         <item itemvalue="Application.FindNearestPoints" />
         <item itemvalue="Application.Ch8Q4" />
@@ -205,17 +295,31 @@
       <option name="presentableId" value="Default" />
       <updated>1541382587651</updated>
       <workItem from="1541382590966" duration="10133000" />
+<<<<<<< HEAD
       <workItem from="1541581981501" duration="630000" />
+=======
+      <workItem from="1541467541791" duration="1818000" />
+      <workItem from="1541641478199" duration="3077000" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="10763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25555557" />
+=======
+    <option name="totallyTimeSpent" value="15028000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="694" height="735" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24605678" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -224,7 +328,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32333332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -254,6 +358,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GradeExam.java" />
     <entry file="file://$PROJECT_DIR$/src/FindNearestPoints.java">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
@@ -267,6 +376,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Q11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Nov06.V2/src/Ch7Q35.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1368">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+=======
+        <state relative-caret-position="19">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch8Q4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -274,10 +403,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Ch8Q11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Ch8Q20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+>>>>>>> 3b6615921fbefc900827e108c6b7bb18dc08a6a8
         </state>
       </provider>
     </entry>
