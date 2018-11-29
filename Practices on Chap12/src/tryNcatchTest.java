@@ -22,9 +22,9 @@ public class tryNcatchTest {
             System.out.println("Are you stupid?");
 //            ex.printStackTrace();
 //            System.out.println(ex.toString());
-            ex.printStackTrace();
-            System.out.println("\n" + ex.getMessage());
-            System.out.println("\n" + ex.toString());
+//            ex.printStackTrace();
+//            System.out.println("\n" + ex.getMessage());
+//            System.out.println("\n" + ex.toString());
         }
     }
 }
