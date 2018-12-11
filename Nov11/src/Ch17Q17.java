@@ -18,8 +18,9 @@ public class Ch17Q17 {
 class BitOutputStream {
     short Bitbuffer=0;
     int BitCount=0;
+    PrintWriter printWriter;
     public BitOutputStream(File file) throws FileNotFoundException {
-        PrintWriter printWriter = new PrintWriter(file);
+        this.printWriter = new PrintWriter(file);
     }
 
     public void writeBit(char bit){
@@ -29,6 +30,7 @@ class BitOutputStream {
             Bitbuffer++;
         if (BitCount==8) {
             System.out.print((char)(Bitbuffer));
+            printWriter.print((char)(Bitbuffer));
             Bitbuffer=0;
             BitCount=0;
         }
@@ -42,6 +44,8 @@ class BitOutputStream {
         for (;BitCount<8;BitCount++)
             Bitbuffer<<=1;
         System.out.print((char)(Bitbuffer));
+        printWriter.print((char)(Bitbuffer));
+        printWriter.close();
         Bitbuffer=0;
         BitCount=0;
     }
