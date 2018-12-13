@@ -45,7 +45,7 @@ class BitOutputStream {
             Bitbuffer<<=1;
         System.out.print((char)(Bitbuffer));
         printWriter.print((char)(Bitbuffer));
-        printWriter.close();
+        printWriter.close();、
         Bitbuffer=0;
         BitCount=0;
     }
